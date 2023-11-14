@@ -2,4 +2,4 @@ packages:
   - name: sample
     actions:
       - name: hello
-        runtime: 'nodejs'
+        runtime: 'nodejs:default'
