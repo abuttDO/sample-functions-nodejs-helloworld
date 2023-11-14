@@ -4,4 +4,4 @@ packages:
       - name: hello
         runtime: 'nodejs:default'
         limits:
-          timeout: 10
+          timeout: 100
