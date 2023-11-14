@@ -3,3 +3,5 @@ packages:
     actions:
       - name: hello
         runtime: 'nodejs:default'
+        limits:
+          timeout: 10
